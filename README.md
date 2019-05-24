@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream.h>
 
 
 
@@ -7,7 +7,7 @@ using namespace std;
 
 
 
-int_64 main()
+int main()
 
 
 {
@@ -17,7 +17,7 @@ int_64 main()
 
 
 
-int_64 i,j,n;
+int i,j,n;
 
 
 
